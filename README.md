@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...Flutter!!!
 - 💞️ I’m looking to collaborate on ...Not Yet Decided!!!
 - 📫 How to reach me ...Through Email..!!!
--                               SKILLS KNOWN              
+-                                                      SKILLS KNOWN              
 - ![example workflow]( https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 <!---
