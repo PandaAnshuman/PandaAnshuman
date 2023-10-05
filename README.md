@@ -48,6 +48,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
 
+[![An image of @pandaanshuman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pandaanshuman)](https://holopin.io/@pandaanshuman)
+
 ###
 
 <div align="center">
