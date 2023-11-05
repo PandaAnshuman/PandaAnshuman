@@ -1,6 +1,6 @@
 <img align="right" width="250" height="140" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif"  />
 
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=PandaAnshuman&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=6&theme=dracula&hide_border=false" height="140" alt="languages graph"  />
+
 
 
 ###
